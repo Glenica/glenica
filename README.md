@@ -113,7 +113,7 @@ That's it. Glenica opens as a sidebar in your n8n editor, ready for the first th
 
 ## Updating
 
-When a new version is out, it appears under [Releases](https://github.com/glenica/glenica/releases).
+When a new version is out, Glenica shows a small **Update** notice at the top of the sidebar, and the new version appears under [Releases](https://github.com/glenica/glenica/releases).
 
 1. Download the new `glenica-extension.zip`.
 2. Replace the contents of your existing `glenica` folder with the new files.

@@ -2,6 +2,10 @@
 
 All notable changes to the Glenica extension are listed here.
 
+## 0.1.4 (2026-10-10)
+
+- Glenica now tells you when a new version is out: a small notice at the top of the sidebar links to the download. You can hide it until the next version.
+
 ## 0.1.3 (2026-10-10)
 
 - The sidebar header now shows the name of the workflow you have open, and updates when you rename it or switch workflows.
