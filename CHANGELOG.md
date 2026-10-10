@@ -2,6 +2,11 @@
 
 All notable changes to the Glenica extension are listed here.
 
+## 0.1.3 (2026-10-10)
+
+- The sidebar header now shows the name of the workflow you have open, and updates when you rename it or switch workflows.
+- "for n8n" in the header is smaller, so your workflow name and the brand read clearly.
+
 ## 0.1.2 (2026-10-10)
 
 - New name: **Glenica for n8n**, in the browser and in the sidebar header.
