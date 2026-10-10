@@ -24,7 +24,7 @@
 
 <br>
 
-Glenica is an AI sidebar inside n8n. Ask in plain words and the nodes land on your own canvas: it plans the workflow, builds it section by section, and fixes it when a run fails.
+**Glenica for n8n** is an AI sidebar inside n8n. Ask in plain words and the nodes land on your own canvas: it plans the workflow, builds it section by section, and fixes it when a run fails.
 
 This repository hosts the **early-access build** of the Glenica browser extension while the Chrome Web Store listing is in review. It holds release files only, not source code.
 
@@ -86,7 +86,7 @@ Open `chrome://extensions` (in Edge: `edge://extensions`, in Brave: `brave://ext
 Click **Load unpacked** and select the `glenica` folder from step 2 (the folder that contains `manifest.json`). Glenica appears in your list of extensions.
 
 <p align="center">
-  <img alt="Glenica: AI sidebar for n8n listed on the Extensions page after loading, switched on." src=".github/assets/step-2-loaded.png" width="70%">
+  <img alt="Glenica for n8n listed on the Extensions page after loading, switched on." src=".github/assets/step-2-loaded.png" width="70%">
 </p>
 
 Then click the puzzle-piece icon in your browser toolbar and pin **Glenica** so it is always one click away.

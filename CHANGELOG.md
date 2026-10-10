@@ -2,6 +2,10 @@
 
 All notable changes to the Glenica extension are listed here.
 
+## 0.1.2 (2026-10-10)
+
+- New name: **Glenica for n8n**, in the browser and in the sidebar header.
+
 ## 0.1.1 (2026-10-10): Early access
 
 The first public build of Glenica, available here while the Chrome Web Store listing is in review.
