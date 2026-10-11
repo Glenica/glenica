@@ -2,6 +2,12 @@
 
 All notable changes to the Glenica extension are listed here.
 
+## 0.1.5 (2026-10-11)
+
+- The setup page has a clean address and tab name: "Glenica · Setup".
+- The toolbar popup now uses Glenica's own font.
+- Same build that was submitted to the Chrome Web Store.
+
 ## 0.1.4 (2026-10-10)
 
 - Glenica now tells you when a new version is out: a small notice at the top of the sidebar links to the download. You can hide it until the next version.
