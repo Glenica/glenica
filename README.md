@@ -15,6 +15,7 @@
 </p>
 
 <p align="center">
+  <a href="https://chromewebstore.google.com/detail/glenica-for-n8n/knkdlnneoeapfaanpbpcnfmgjfghbaak"><b>Chrome Web Store</b></a> ·
   <a href="https://www.glenica.com"><b>Website</b></a> ·
   <a href="https://www.glenica.com/install">Install guide</a> ·
   <a href="https://www.glenica.com/pricing">Pricing</a> ·
@@ -26,7 +27,9 @@
 
 **Glenica for n8n** is an AI sidebar inside n8n. Ask in plain words and the nodes land on your own canvas: it plans the workflow, builds it section by section, and fixes it when a run fails.
 
-This repository hosts the **early-access build** of the Glenica browser extension while the Chrome Web Store listing is in review. It holds release files only, not source code.
+> **Glenica is now on the Chrome Web Store.** [Add it from the store](https://chromewebstore.google.com/detail/glenica-for-n8n/knkdlnneoeapfaanpbpcnfmgjfghbaak) for one-click install and automatic updates. Then install the companion app ([step 5](#5-install-the-companion-app)) and open n8n.
+
+This repository hosts the **early-access build** of the Glenica browser extension, for people who prefer to load it by hand. It holds release files only, not source code.
 
 <p align="center">
   <picture>
@@ -123,7 +126,7 @@ Your account, plan and settings stay as they are.
 
 ## Moving to the Chrome Web Store
 
-Once Glenica is live on the Chrome Web Store, we'll update this page and the [website](https://www.glenica.com/install) with the link. Install from the store, then remove the early-access copy from `chrome://extensions`. Your account and subscription carry over: just sign in again. The store version updates itself automatically.
+Glenica is live on the [Chrome Web Store](https://chromewebstore.google.com/detail/glenica-for-n8n/knkdlnneoeapfaanpbpcnfmgjfghbaak). Early-access copies show a **Switch** notice in the sidebar. Install from the store, then remove the early-access copy from `chrome://extensions`. Your account and subscription carry over: just sign in again. The store version updates itself automatically.
 
 ## FAQ
 
